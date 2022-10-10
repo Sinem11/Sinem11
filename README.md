@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sinem</h1>
 <h3 align="center">I am developing myself in the field of test engineering.</h3>
+
 - 🌱 I’m currently learning **Selenium, c#, Java**
 
 - 📫 How to reach me **sinem_kopuz@hotmail.com**
