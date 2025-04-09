@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **sinem_kopuz@hotmail.com**
 
-- ⚡ Fun fact **I'm disciplined and funny**
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sinem11&label=Profile%20views&color=0e75b6&style=flat" alt="sinem11" /> </p>
 
